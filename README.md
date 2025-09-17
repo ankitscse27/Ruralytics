@@ -39,11 +39,11 @@ No setup required! Since this is a pure front-end project, you can run it by sim
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/ankitscse27/git clone https://github.com/ankitscse27/Ruralytics.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd your-repo-name
+    cd Ruralytics
     ```
 3.  **Open the `index.html` file in your favorite web browser.**
 
