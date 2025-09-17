@@ -38,7 +38,7 @@ This project is a **front-end simulation** designed to mimic a real data science
 No setup required! Since this is a pure front-end project, you can run it by simply opening the HTML file in your browser.
 
 1.  **Clone the repository:**
-    git clone https://github.com/ankitscse27/git clone https://github.com/ankitscse27/Ruralytics.git
+    https://github.com/ankitscse27/Ruralytics.git
     
 2.  **Navigate to the directory:**
     cd Ruralytics
