@@ -44,11 +44,10 @@ Ruralytics is a zero-dependency, pure front-end solution.
 As a pure front-end solution, **no complex installation or server setup is required.**
 
 1.  **Clone the Repository:**
-    ```bash
     git clone [https://github.com/ankitscse27/Ruralytics.git](https://github.com/ankitscse27/Ruralytics.git)
     cd Ruralytics
-    ```
-2.  **Run:** Simply open the `index.html` file in your preferred web browser.
+    
+2.  **Run:** Simply open the `ay7.html` file in your preferred web browser.
 
 The application will load, ready for you to input data and run the dynamic forecast simulation.
 
